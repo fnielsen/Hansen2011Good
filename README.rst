@@ -10,6 +10,13 @@ Code and some data files for the conference article:
     `Brede Wiki <http://neuro.compute.dtu.dk/wiki/Good_friends,_bad_news_-_affect_and_virality_in_Twitter>`_ | 
     `Scholia <https://tools.wmflabs.org/scholia/work/Q27681552>`_
 
+Notes about the data analysis:
+
+    Diffusion and emotion:  The effect of sentiment of retweeting.  Notes to an article by Lars Kai Hansen,
+    Adam Arvidsson, Elanor Colleoni, Michael Etter and Finn Årup Nielsen.
+    Finn Årup Nielsen.
+    http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/7007/pdf/imm7007.pdf
+
 Description
 -----------
 - The data here was not originally made in a format for release and as such not very readable and not ready for execution as file are referenced to specific file locations.
