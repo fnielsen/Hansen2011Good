@@ -26,4 +26,4 @@ Description
 - The data was analyzed with a combination of Python and R: Data and feature extraction, R for the statistical analysis.
 - The stop word list used was one from the Brede Toolbox, http://neuro.compute.dtu.dk/software/brede/. The specific file is called stop_english1.txt and available from http://neuro.compute.dtu.dk/software/brede/code/brede/data/stop_english1.txt It contains 571 words.
 - The sentiment word list used in the study is AFINN-111.txt. That list is available both as part of the afinn python package and distributed on its own. You find it here https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-111.txt and in this zip file: http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6010/zip/imm6010.zip
-- Further Python files exists that was used to download the data.
+- Further Python files exist that were used to download the data.
