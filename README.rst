@@ -15,7 +15,7 @@ Notes about the data analysis:
     Diffusion and emotion:  The effect of sentiment of retweeting.  Notes to an article by Lars Kai Hansen,
     Adam Arvidsson, Elanor Colleoni, Michael Etter and Finn Årup Nielsen.
     Finn Årup Nielsen.
-    http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/7007/pdf/imm7007.pdf
+    http://www2.compute.dtu.dk/pubdb/edoc/imm7007.pdf
 
 Description
 -----------
