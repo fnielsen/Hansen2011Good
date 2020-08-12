@@ -7,8 +7,7 @@ Code and some data files for the conference article:
     Future Information Technology 185, Part 1 in Communications in Computer and Information Science : 34-43. 2011 December. 
     The 2011 International Workshop on Social Computing, Network, and Services (SocialComNet 2011) 
     `Publishers version <https://link.springer.com/chapter/10.1007/978-3-642-22309-9_5>`_ |
-    `Brede Wiki <http://neuro.compute.dtu.dk/wiki/Good_friends,_bad_news_-_affect_and_virality_in_Twitter>`_ | 
-    `Scholia <https://tools.wmflabs.org/scholia/work/Q27681552>`_
+    `Scholia <https://scholia.toolforge.org/work/Q27681552>`_
 
 Notes about the data analysis:
 
